@@ -8,25 +8,22 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Holla Semua, Nama gue <span className="purple">Raihan Anubhawa </span>
-            dari <span className="purple"> Jakarta, Indonesia.</span>
-            <br />
-            Gue sekarang kerja Sebagai WebDev di Kalacakra Technology
-            <br />
-            Gue lulusan <span className="purple">SMKN 10, Jurusan RPL </span>. Dan sekarang lanjut Kuliah Jurusan IT, di UNINDRA
+          Sekali lagi saya perkenalkan diri nama saya <span className="purple">Raihan Anubhawa Ekaputra </span>
+            dari <span className="purple"> Jakarta, Indonesia.</span> Sekarang saya menjadi Front End Developer Di <span className="purple"> Cakratech Technology Indonesia </span>
+            Sekarang saya memegang Bahasa<span className="purple"> React Js</span>. Dan Kesibukan saya Sekarang juga adalah melanjutkan kuliah jurusan IT, di UNINDRA
             <br />
             <br />
-            Selain ngoding, gue juga ada aktivitas lain nii broouw!
+            Selain bekerja dan Kuliah, aku juga ada kesibukan dan menjadi hobby, yaitu 
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Ngegame (Mobile Legends, Valorant, dan Dota 2)
+              <ImPointRight /> Bermain Game (Valoran, Mobile Legends, dan Dota 2)
             </li>
             <li className="about-activity">
-              <ImPointRight /> Bikin Kopi Manual Brew (V60, Vietnam Drip, dan Aeropress )
+              <ImPointRight /> Iseng iseng membuat dan mempelajari Kopi seperti V60 dan Manual brew lainya.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Nongkrong biar ga dikira IT Ansos hehehe
+              <ImPointRight /> Kumpul dengan teman yang tidak sejurusan, agar menambah relasi dan ilmu pengetahuan.
             </li>
           </ul>
 

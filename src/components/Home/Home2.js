@@ -16,39 +16,19 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-            Biar Ga <span className="purple"> Soasik, </span> Perkenalin NIh
+              <span className="purple"> Tentang Saya</span>
             </h1>
             <p className="home-about-body">
-              Gue orang yang kecanduan coding, dan setidaknya gue udah ngerti sesuatu, kayaknya sih... 🤷‍♂️
-              <br />
-              <br />Gue selalu interest dengan bahasa
-              <i>
-                <b className="purple"> Javascript, Golang, dan Java. </b>
-              </i>
+              Saya adalah seorang yang tertarik dalam dunia pemrograman, dan saya telah mempelajari beberapa bahasa pemrograman seperti PHP, Javascript, Golang, dan Java.
               <br />
               <br />
-              Pokoknya gue demen banget sama bikin &nbsp;
-              <i>
-                <b className="purple">Teknologi web dan Produk Baru </b>  apalagi yang ada hubungannya sama{" "}
-                <b className="purple">
-                  AI gitu.
-                </b>
-              </i>
+              Saya memiliki minat yang besar dalam pengembangan teknologi web, backend dan produk baru, terutama yang berkaitan dengan kecerdasan buatan.
               <br />
               <br />
-              Tiap bisa, gue selalu ngegass buat bikin produk pake <b className="purple">Node.js</b>, terus ulik uli pakai
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; kaya
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
-              &nbsp;
-              Seru banget, deh! Semoga lancar terus, ya! Kalo ada yang bisa gue bantu, langsung aja kabarin gue aje ya kaannn....
+              Setiap kesempatan, saya selalu bersemangat untuk membuat produk menggunakan Node.js, dan saya juga senang untuk bereksplorasi dengan berbagai library dan framework modern seperti React.js dan Next.js.
+              <br />
+              <br />
+              Semoga perjalanan saya dalam dunia pemrograman terus lancar. Jika ada yang bisa saya bantu, jangan ragu untuk menghubungi saya ya.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -59,9 +39,9 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>CARI SAYA DI</h1>
             <p>
-              Feel free to <span className="purple">connect </span>with me
+              Jangan ragu untuk <span className="purple">terhubung</span> dengan saya
             </p>
             <ul className="home-about-social-links">
               <li className="social-icons">
